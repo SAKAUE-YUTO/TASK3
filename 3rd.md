@@ -7,6 +7,11 @@
 - 構成管理　("Birdie's Version")　Bundler version 2.3.14
 
 
+- APサーバー・No application seems to be running here! 発生
+- 再起動後問題なく接続確認
+- DBサーバー・Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)　発生
+- 再起動後問題なく接続確認
+
 # 今回の実習について
 - 構築関係を行うのが初めてだったので、かなりいろいろな場所で躓いた。
 - 実際にデバックをやってみても、いろいろとCLOUD９上にエラー内容が書かれているのであろうがそれを見つけて、調べて、違ったらまた調べてと解決まで一歩一歩踏みしていく感覚があった。
