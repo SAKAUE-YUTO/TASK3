@@ -5,6 +5,10 @@
 - WEBサーバー Puma version: 5.6.4 
 - 言語　(ruby 2.7.2-p137) ←　2.6から上げてしまいました。
 - 構成管理　("Birdie's Version")　Bundler version 2.3.14
+- APサーバー・No application seems to be running here! 発生
+- 再起動後問題なく接続確認
+- DBサーバー・Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2)　発生
+- 再起動後問題なく接続確認
 
 
 # 今回の実習について
